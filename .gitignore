@@ -6,3 +6,5 @@ demo*
 refs/
 results/
 part1_introduction_ignore.ipynb
+part2_feature_engineering.nbconvert.ipynb
+part3_data_preparation_ignore.ipynb
